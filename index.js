@@ -4,9 +4,6 @@ function happyHolidays(string) {
 }
 
 function happyHolidaysTo(name) {
-  console.log(`Happy holidays, ${name}!`)
+  console.log(`Happy holidays, Vicki!`)
 }
 
-function say(greeting, firstName) {
-  console.log(`${greeting}, ${firstName}!`)
-}
